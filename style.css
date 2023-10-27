@@ -1,4 +1,7 @@
-body{background-color #F6635C; }
+body{background-color;
+    color: #FFBA86;
+ }
+
 paragrafo1 {
     color: aqua;
     text-align: center;
