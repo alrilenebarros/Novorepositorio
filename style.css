@@ -1,7 +1,8 @@
 
-.paragrafo1
-p{
+paragrafo1 {
     color: aqua;
+    text-align: center;
+    
 }
 h1{
     text-align: center;
