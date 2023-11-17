@@ -1,5 +1,6 @@
 body
-{background-colo:color: #FFBA86;
+{background-colo:
+    color: #FFBA86;
  }
 
 paragrafo1 {
@@ -17,5 +18,7 @@ h2{
     color: #C23373;
     text-align: center;
 }
+<img 
 {
+
    
